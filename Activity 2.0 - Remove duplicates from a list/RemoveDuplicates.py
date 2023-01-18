@@ -1,5 +1,3 @@
-from collections import OrderedDict 
-
 def removeDuplicates(list): 
 
      list = [*set(list)]
